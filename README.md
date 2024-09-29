@@ -20,4 +20,4 @@ For any issues or contributions, feel free to open a pull request or contact me 
 
 ## License
 
-This project is licensed under the [MIT License] (/LICENSE.txt).
+This project is licensed under the [MIT License](https://github.com/roseybugayon/portfolio?tab=MIT-1-ov-file#readme).
